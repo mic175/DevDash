@@ -1,4 +1,4 @@
-###AccessiRide (DevDash) — Accessible Rides, Faster
+# AccessiRide (DevDash) — Accessible Rides, Faster
 
 **Challenge #9 (SmartTech Hackathon) • Winner — 1st Place** 🏆
 Helping wheelchair users quickly find **nearby, truly** accessible transportation — without hours of research and phone calls.
